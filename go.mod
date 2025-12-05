@@ -1,4 +1,4 @@
-module srcom
+module github.com/Chouette2100/srcom
 
 go 1.25.4
 
