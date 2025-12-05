@@ -1,4 +1,4 @@
-module srlib/srcom
+module srcom
 
 go 1.25.4
 
