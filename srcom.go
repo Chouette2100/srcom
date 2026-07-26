@@ -5,6 +5,7 @@ package srcom
 
 /*
 000000 CreateLogfile3.go ログファイルを作る。
+000100 LoadConfig()を作成する（exsrapiにあるものと現時点では同一）
 */
 
-const Verson = "000000"
+const Verson = "000100"

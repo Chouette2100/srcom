@@ -2,6 +2,9 @@ module github.com/Chouette2100/srcom
 
 go 1.25.4
 
-require golang.org/x/term v0.37.0
+require (
+	golang.org/x/term v0.37.0
+	gopkg.in/yaml.v2 v2.4.0
+)
 
 require golang.org/x/sys v0.38.0 // indirect
